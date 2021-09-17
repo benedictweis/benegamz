@@ -1,5 +1,5 @@
 # Nice to meet you 👋
-## My name is Benedict
+### My name is Benedict
 
 I enjoy coding, photography and beeing outdoors 😊
 
